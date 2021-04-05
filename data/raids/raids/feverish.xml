@@ -1,0 +1,8 @@
+<raid>
+<announce delay="1000" type="event" message="Feverish Citizens are invade the streets of Slugmyn!" />
+
+  <areaspawn delay="1000" fromx="370" fromy="392" fromz="6" tox="426" toy="422" toz="6">
+    <monster name="feverish citizen" amount="50" />
+  </areaspawn>
+ 
+</raid>

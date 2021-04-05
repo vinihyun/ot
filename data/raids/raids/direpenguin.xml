@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <singlespawn delay="1000" name="Dire Penguin" x="267" y="103" z="8" />
+</raid>

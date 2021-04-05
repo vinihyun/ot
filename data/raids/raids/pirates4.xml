@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+
+<announce delay="1000" type="event" message="Unknown ships are sighted east of Ithilien." />
+<announce delay="35000" type="event" message="The ships that approach Ithilien from the east have raised the pirate flag! Hide or grab your weapons to fight." />
+<announce delay="70000" type="event" message="Pirates are launching an attack on Ithilien! Hide or fight." />
+
+  <areaspawn delay="35000" fromx="720" fromy="498" fromz="7" tox="816" toy="556" toz="7">
+    <monster name="Pirate Corsair" amount="20" />
+    <monster name="Pirate Buccaneer" amount="20" />
+    <monster name="Pirate Cutthroat" amount="20" />
+    <monster name="Pirate Marauder" amount="20" />
+    <monster name="Smuggler" amount="15" />
+  </areaspawn>
+
+  <areaspawn delay="70000" fromx="720" fromy="498" fromz="7" tox="816" toy="556" toz="7">
+    <monster name="Pirate Corsair" amount="35" />
+    <monster name="Pirate Buccaneer" amount="35" />
+    <monster name="Pirate Cutthroat" amount="35" />
+    <monster name="Pirate Marauder" amount="35" />
+    <monster name="Smuggler" amount="25" />
+    <monster name="Lethal Lissy" amount="1"/>
+  </areaspawn>
+  </raid>

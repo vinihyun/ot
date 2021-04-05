@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+
+<announce delay="1000" type="event" message="Raiders are attacking Frizen!" />
+<announce delay="35000" type="event" message="The barbarians attacks on Frizen are becoming more and more fierce!" />
+<announce delay="70000" type="event" message="The barbarians are preparing for a final assault on Frizen. Hide or fight!" />
+
+  <areaspawn delay="35000" fromx="312" fromy="159" fromz="7" tox="365" toy="195" toz="7">
+    <monster name="Barbarian Bloodwalker" amount="5" />
+    <monster name="Barbarian Brutetamer" amount="5" />
+    <monster name="Barbarian Headsplitter" amount="5" />
+    <monster name="Barbarian Skullhunter" amount="5" />
+  <monster name="Ice Witch" amount="2" />
+  </areaspawn>
+
+  <areaspawn delay="70000" fromx="312" fromy="159" fromz="7" tox="365" toy="195" toz="7">
+    <monster name="Barbarian Bloodwalker" amount="8" />
+    <monster name="Barbarian Brutetamer" amount="8" />
+    <monster name="Barbarian Headsplitter" amount="8" />
+    <monster name="Barbarian Skullhunter" amount="8" />
+  <monster name="Ice Witch" amount="3" />
+  <monster name="Barbaria" amount="1" />
+  </areaspawn>
+</raid>

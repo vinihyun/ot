@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+
+<announce delay="1000" type="event" message="Hungry apes are getting aggresive." />
+<announce delay="35000" type="event" message="Apes are getting close to Felwood." />
+<announce delay="70000" type="event" message="Apes attacked Felwood!" />
+
+  <areaspawn delay="35000" fromx="1000" fromy="962" fromz="7" tox="1067" toy="995" toz="6">
+    <monster name="Kongra" amount="15" />
+    <monster name="Merlkin" amount="10" />
+    <monster name="Sibang" amount="10" />
+  </areaspawn>
+
+  <areaspawn delay="70000" fromx="1000" fromy="962" fromz="7" tox="1067" toy="995" toz="6">
+    <monster name="Kongra" amount="25" />
+    <monster name="Merlkin" amount="13" />
+    <monster name="Sibang" amount="15" />
+    <monster name="Hairman The Huge" amount="1"/>
+  </areaspawn>
+
+</raid>

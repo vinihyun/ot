@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Akyles" script="Captain Akylies.lua" walkinterval="2000" walkradius="2" floorchange="0">
+  <health now="100" max="100" />
+ <look type="130" head="41" body="1" legs="58" feet="0" addons="1" mount="0"/>
+<parameters>
+<parameter key="message_farewell" value="Good bye. Recommend us if you were satisfied with my service." />
+<parameter key="message_walkaway" value="Good bye. Recommend us if you were satisfied with my service." />
+ <parameter key="module_keywords" value="1" />
+ <parameter key="message_greet" value="Welcome on board, |PLAYERNAME|. Where may I {sail} you today? I can take you to amazing places owned by my sons."/>
+</parameters>
+</npc>

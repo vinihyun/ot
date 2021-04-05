@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Akylia Marauder" script="Akylia Marauder.lua" walkinterval="2000" walkradius="2" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="136" head="58" body="1" legs="75" feet="19" addons="2" mount="0"/>
+<parameters>
+		<parameter key="message_greet" value="May I help you with my {services}?" />
+	</parameters>
+</npc>
+

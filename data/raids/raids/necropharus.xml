@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <singlespawn delay="1000" name="Necropharus" x="403" y="631" z="9" />
+</raid>

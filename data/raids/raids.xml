@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raids>
+	<!-- AVALON -->
+	<raid name="Barbarians" file="raids/barbarians.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Quaras" file="raids/quaras.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Plants" file="raids/plants.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Apes" file="raids/apes.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Pirates" file="raids/pirates.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Pirates2" file="raids/pirates2.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Pirates3" file="raids/pirates3.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Pirates4" file="raids/pirates4.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Feverish" file="raids/feverish.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Elves" file="raids/elves.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Minotaurs" file="raids/minotaurs.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Necropharus" file="raids/necropharus.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Demodras" file="raids/demodras.xml" interval2="360" chance="2" margin="360"/>
+	<raid name="Direpenguin" file="raids/direpenguin.xml" interval2="360" chance="2" margin="360"/>
+
+</raids>

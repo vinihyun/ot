@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Karmia Mansion" houseid="32" entryx="508" entryy="535" entryz="7" rent="0" townid="1" size="160" />
+	<house name="Beach House 1" houseid="34" entryx="544" entryy="523" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Beach House II" houseid="35" entryx="547" entryy="520" entryz="6" rent="0" townid="1" size="32" />
+	<house name="Square Flat, 1" houseid="61" entryx="414" entryy="423" entryz="6" rent="0" townid="2" size="73" />
+	<house name="Square Flat, 2" houseid="62" entryx="402" entryy="423" entryz="6" rent="0" townid="2" size="73" />
+	<house name="Square Flat, 3" houseid="63" entryx="396" entryy="423" entryz="6" rent="0" townid="2" size="73" />
+	<house name="Square Flat, 4" houseid="64" entryx="416" entryy="414" entryz="6" rent="0" townid="2" size="78" />
+	<house name="Square Flat, 5" houseid="65" entryx="412" entryy="405" entryz="6" rent="0" townid="2" size="148" />
+	<house name="Square Flat, 6" houseid="66" entryx="404" entryy="405" entryz="6" rent="0" townid="2" size="148" />
+	<house name="Square Flat, 7" houseid="67" entryx="422" entryy="402" entryz="6" rent="0" townid="2" size="93" />
+	<house name="Deposit Street I" houseid="68" entryx="414" entryy="392" entryz="6" rent="0" townid="2" size="78" />
+	<house name="Square Flat, 8" houseid="70" entryx="394" entryy="405" entryz="6" rent="0" townid="2" size="78" />
+	<house name="Slugmyn Guildhall" houseid="71" entryx="375" entryy="407" entryz="6" rent="0" guildhall="true" townid="2" size="240" />
+	<house name="Entrance House, 1" houseid="72" entryx="381" entryy="405" entryz="6" rent="0" townid="2" size="76" />
+	<house name="Entrance House, 2 " houseid="73" entryx="386" entryy="397" entryz="6" rent="0" townid="2" size="62" />
+	<house name="Karmia Underground, Flat 1" houseid="75" entryx="442" entryy="473" entryz="12" rent="0" townid="1" size="125" />
+	<house name="Karmia Underground, Flat 2" houseid="76" entryx="443" entryy="462" entryz="12" rent="0" townid="1" size="89" />
+	<house name="Karmia Underground, Flat 3" houseid="77" entryx="434" entryy="454" entryz="12" rent="0" townid="1" size="94" />
+	<house name="Karmia Underground, Flat 4" houseid="78" entryx="408" entryy="470" entryz="12" rent="0" townid="1" size="104" />
+	<house name="Karmia Underground, Flat 5" houseid="79" entryx="406" entryy="450" entryz="12" rent="0" townid="1" size="94" />
+	<house name="Karmia Underground, Flat 6" houseid="80" entryx="409" entryy="434" entryz="11" rent="0" townid="1" size="72" />
+	<house name="Karmia Underground, Flat 7" houseid="81" entryx="416" entryy="429" entryz="11" rent="0" townid="1" size="146" />
+	<house name="Karmia Underground, Flat 8" houseid="82" entryx="438" entryy="433" entryz="11" rent="0" townid="1" size="35" />
+	<house name="Lookout I" houseid="83" entryx="1015" entryy="962" entryz="7" rent="0" townid="14" size="68" />
+	<house name="Lookout II" houseid="84" entryx="1021" entryy="958" entryz="7" rent="0" townid="14" size="50" />
+	<house name="Lookout III" houseid="85" entryx="1026" entryy="962" entryz="7" rent="0" townid="14" size="104" />
+	<house name="Felwood Guildhall" houseid="86" entryx="1027" entryy="991" entryz="7" rent="0" guildhall="true" townid="14" size="452" />
+	<house name="Cheer Valley, Flat 1" houseid="87" entryx="1061" entryy="998" entryz="7" rent="0" townid="14" size="22" />
+	<house name="Cheer Valley, Flat 2" houseid="88" entryx="1053" entryy="996" entryz="7" rent="0" townid="14" size="14" />
+	<house name="Cheer Valley, Flat 3" houseid="89" entryx="1050" entryy="992" entryz="7" rent="0" townid="14" size="15" />
+	<house name="Cheer Valley, Flat 4" houseid="90" entryx="1048" entryy="992" entryz="6" rent="0" townid="14" size="7" />
+	<house name="Cheer Valley, Flat 5" houseid="91" entryx="1054" entryy="996" entryz="6" rent="0" townid="14" size="14" />
+	<house name="Cheer Valley, Flat 6" houseid="92" entryx="1052" entryy="985" entryz="7" rent="0" townid="14" size="136" />
+	<house name="Cheer Valley, Flat 7" houseid="93" entryx="1053" entryy="974" entryz="7" rent="0" townid="14" size="74" />
+	<house name="Treehouse Guildhall" houseid="94" entryx="982" entryy="960" entryz="7" rent="0" townid="14" size="509" />
+	<house name="Parrot Flat 1" houseid="95" entryx="1021" entryy="993" entryz="7" rent="0" townid="14" size="90" />
+	<house name="Parrot Flat 2" houseid="96" entryx="1016" entryy="983" entryz="7" rent="0" townid="14" size="117" />
+	<house name="Capitlif Guildhall" houseid="97" entryx="467" entryy="718" entryz="7" rent="0" guildhall="true" townid="8" size="200" />
+	<house name="Guild Castle" houseid="98" entryx="392" entryy="639" entryz="7" rent="0" guildhall="true" townid="8" size="550" />
+	<house name="Outside Flat 1" houseid="99" entryx="408" entryy="652" entryz="7" rent="0" townid="8" size="84" />
+	<house name="Outside Flat 2" houseid="100" entryx="400" entryy="654" entryz="7" rent="0" townid="8" size="78" />
+	<house name="Outside Flat 3" houseid="101" entryx="387" entryy="651" entryz="7" rent="0" townid="8" size="92" />
+	<house name="Outside Flat 4" houseid="102" entryx="378" entryy="647" entryz="7" rent="0" townid="8" size="65" />
+	<house name="Deposit House" houseid="103" entryx="432" entryy="635" entryz="7" rent="0" townid="8" size="46" />
+	<house name="Tower House I" houseid="104" entryx="463" entryy="625" entryz="7" rent="0" townid="8" size="25" />
+	<house name="Tower House II" houseid="105" entryx="451" entryy="622" entryz="6" rent="0" townid="8" size="96" />
+	<house name="Tower House III" houseid="106" entryx="455" entryy="663" entryz="7" rent="0" townid="8" size="44" />
+	<house name="Tower House IV" houseid="107" entryx="451" entryy="665" entryz="6" rent="0" townid="8" size="23" />
+	<house name="Tower House V" houseid="108" entryx="462" entryy="665" entryz="6" rent="0" townid="8" size="65" />
+	<house name="Tower House VI" houseid="109" entryx="434" entryy="665" entryz="6" rent="0" townid="8" size="23" />
+	<house name="Tower House VII" houseid="110" entryx="423" entryy="665" entryz="6" rent="0" townid="8" size="48" />
+	<house name="Tower House VIII" houseid="111" entryx="431" entryy="663" entryz="7" rent="0" townid="8" size="38" />
+	<house name="Tower House IX" houseid="112" entryx="420" entryy="662" entryz="7" rent="0" townid="8" size="23" />
+	<house name="Silver District I" houseid="113" entryx="452" entryy="632" entryz="7" rent="0" townid="8" size="33" />
+	<house name="Silver District II" houseid="114" entryx="452" entryy="638" entryz="7" rent="0" townid="8" size="33" />
+	<house name="Silver District III" houseid="115" entryx="457" entryy="632" entryz="7" rent="0" townid="8" size="30" />
+	<house name="Silver District IV" houseid="116" entryx="460" entryy="641" entryz="7" rent="0" townid="8" size="22" />
+	<house name="Silver District V" houseid="117" entryx="460" entryy="647" entryz="7" rent="0" townid="8" size="37" />
+	<house name="Silver District VI" houseid="118" entryx="452" entryy="633" entryz="6" rent="0" townid="8" size="33" />
+	<house name="Silver District VII" houseid="119" entryx="457" entryy="632" entryz="6" rent="0" townid="8" size="14" />
+	<house name="Silver District VIII" houseid="120" entryx="452" entryy="638" entryz="6" rent="0" townid="8" size="33" />
+	<house name="Silver District IX" houseid="121" entryx="457" entryy="638" entryz="6" rent="0" townid="8" size="22" />
+	<house name="Main Street, Flat I" houseid="122" entryx="437" entryy="651" entryz="7" rent="0" townid="8" size="46" />
+	<house name="Main Street, Flat II" houseid="123" entryx="443" entryy="648" entryz="7" rent="0" townid="8" size="88" />
+	<house name="Wall House, 1" houseid="124" entryx="422" entryy="660" entryz="7" rent="0" townid="8" size="38" />
+	<house name="Wall House, 2" houseid="125" entryx="424" entryy="651" entryz="7" rent="0" townid="8" size="102" />
+	<house name="Temple Street, 1" houseid="126" entryx="455" entryy="656" entryz="7" rent="0" townid="8" size="83" />
+	<house name="Temple Street, 2" houseid="127" entryx="458" entryy="653" entryz="7" rent="0" townid="8" size="37" />
+	<house name="Sky House" houseid="128" entryx="432" entryy="637" entryz="6" rent="0" townid="8" size="32" />
+	<house name="Deposit, Flat 1" houseid="129" entryx="456" entryy="499" entryz="9" rent="0" townid="1" size="10" />
+	<house name="Deposit, Flat 2" houseid="130" entryx="455" entryy="503" entryz="9" rent="0" townid="1" size="44" />
+	<house name="Deposit, Flat 3" houseid="131" entryx="451" entryy="499" entryz="9" rent="0" townid="1" size="10" />
+	<house name="Deposit, Flat 4" houseid="132" entryx="448" entryy="503" entryz="9" rent="0" townid="1" size="44" />
+	<house name="Deposit, Flat 5" houseid="133" entryx="446" entryy="499" entryz="9" rent="0" townid="1" size="10" />
+	<house name="Deposit, Flat 6" houseid="134" entryx="441" entryy="503" entryz="9" rent="0" townid="1" size="44" />
+	<house name="Deposit, Flat 7" houseid="135" entryx="441" entryy="499" entryz="9" rent="0" townid="1" size="10" />
+	<house name="Deposit, Flat 8" houseid="136" entryx="436" entryy="499" entryz="9" rent="0" townid="1" size="10" />
+	<house name="Azshara Guildhall" houseid="138" entryx="370" entryy="540" entryz="7" rent="0" guildhall="true" townid="6" size="568" />
+	<house name="Azshara Main Street, 2" houseid="140" entryx="385" entryy="499" entryz="7" rent="0" townid="6" size="43" />
+	<house name="Azshara Main Street, 3" houseid="141" entryx="375" entryy="503" entryz="7" rent="0" townid="6" size="142" />
+	<house name="Azshara Main Street, 4" houseid="142" entryx="382" entryy="509" entryz="7" rent="0" townid="6" size="82" />
+	<house name="Azshara Main Street, 5" houseid="143" entryx="401" entryy="509" entryz="7" rent="0" townid="6" size="52" />
+	<house name="Beach, Flat 1" houseid="144" entryx="394" entryy="521" entryz="7" rent="0" townid="6" size="84" />
+	<house name="Beach, Flat 2" houseid="145" entryx="399" entryy="520" entryz="7" rent="0" townid="6" size="46" />
+	<house name="Beach, Flat 3" houseid="146" entryx="388" entryy="529" entryz="7" rent="0" townid="6" size="140" />
+	<house name="Golden Street 1" houseid="147" entryx="345" entryy="503" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Golden Street 2" houseid="148" entryx="345" entryy="496" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Golden Street 3" houseid="149" entryx="345" entryy="492" entryz="7" rent="0" townid="6" size="24" />
+	<house name="Golden Street 4" houseid="150" entryx="345" entryy="488" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Golden Street 5" houseid="151" entryx="345" entryy="524" entryz="7" rent="0" townid="6" size="34" />
+	<house name="Golden Street 6" houseid="152" entryx="345" entryy="530" entryz="7" rent="0" townid="6" size="47" />
+	<house name="Golden Street 7" houseid="153" entryx="350" entryy="524" entryz="7" rent="0" townid="6" size="113" />
+	<house name="Northside, Flat 1" houseid="154" entryx="386" entryy="479" entryz="7" rent="0" townid="6" size="83" />
+	<house name="Northside, Flat 2" houseid="155" entryx="384" entryy="484" entryz="7" rent="0" townid="6" size="56" />
+	<house name="Northside, Flat 3" houseid="156" entryx="376" entryy="479" entryz="7" rent="0" townid="6" size="142" />
+	<house name="Northside, Flat 4" houseid="157" entryx="368" entryy="479" entryz="7" rent="0" townid="6" size="81" />
+	<house name="Oasis House" houseid="158" entryx="354" entryy="513" entryz="7" rent="0" townid="6" size="30" />
+	<house name="Lion Flat, 1" houseid="159" entryx="364" entryy="515" entryz="7" rent="0" townid="6" size="34" />
+	<house name="Lion Flat, 2" houseid="160" entryx="364" entryy="521" entryz="7" rent="0" townid="6" size="47" />
+	<house name="Boat House" houseid="161" entryx="453" entryy="608" entryz="7" rent="0" townid="8" size="134" />
+	<house name="Pyramid House I" houseid="163" entryx="854" entryy="1058" entryz="7" rent="0" townid="9" size="10" />
+	<house name="Pyramid House II" houseid="164" entryx="860" entryy="1058" entryz="7" rent="0" townid="9" size="10" />
+	<house name="Pyramid House III" houseid="165" entryx="854" entryy="1050" entryz="7" rent="0" townid="9" size="10" />
+	<house name="Pyramid House IV" houseid="166" entryx="860" entryy="1050" entryz="7" rent="0" townid="9" size="10" />
+	<house name="Pyramid I" houseid="167" entryx="841" entryy="1063" entryz="7" rent="0" townid="9" size="46" />
+	<house name="Pyramid II" houseid="168" entryx="835" entryy="1063" entryz="7" rent="0" townid="9" size="46" />
+	<house name="Pyramid III" houseid="169" entryx="838" entryy="1061" entryz="6" rent="0" townid="9" size="45" />
+	<house name="Pyramid IV" houseid="170" entryx="839" entryy="1039" entryz="7" rent="0" townid="9" size="36" />
+	<house name="Pyramid V" houseid="171" entryx="839" entryy="1035" entryz="7" rent="0" townid="9" size="36" />
+	<house name="Pyramid VI" houseid="172" entryx="841" entryy="1035" entryz="6" rent="0" townid="9" size="24" />
+	<house name="Pyramid VII" houseid="173" entryx="841" entryy="1040" entryz="6" rent="0" townid="9" size="24" />
+	<house name="Pyramid VIII" houseid="174" entryx="815" entryy="1037" entryz="7" rent="0" townid="9" size="21" />
+	<house name="Pyramid IX" houseid="175" entryx="820" entryy="1050" entryz="7" rent="0" townid="9" size="25" />
+	<house name="Pyramid X" houseid="176" entryx="820" entryy="1062" entryz="7" rent="0" townid="9" size="16" />
+	<house name="Pyramid XI" houseid="177" entryx="830" entryy="1082" entryz="7" rent="0" townid="9" size="45" />
+	<house name="Pyramid XII" houseid="178" entryx="830" entryy="1086" entryz="7" rent="0" townid="9" size="45" />
+	<house name="Pyramid XIII" houseid="179" entryx="832" entryy="1081" entryz="6" rent="0" townid="9" size="30" />
+	<house name="Pyramid XIV" houseid="180" entryx="832" entryy="1088" entryz="6" rent="0" townid="9" size="30" />
+	<house name="Pyramid XV" houseid="181" entryx="857" entryy="1103" entryz="7" rent="0" townid="9" size="77" />
+	<house name="Pyramid XVI" houseid="182" entryx="850" entryy="1110" entryz="6" rent="0" townid="9" size="24" />
+	<house name="Pyramid XVII" houseid="183" entryx="829" entryy="1105" entryz="7" rent="0" townid="9" size="28" />
+	<house name="Pyramid XVIII" houseid="184" entryx="836" entryy="1105" entryz="7" rent="0" townid="9" size="86" />
+	<house name="Pyramid XIX" houseid="185" entryx="830" entryy="1117" entryz="6" rent="0" townid="9" size="28" />
+	<house name="Pyramid XX" houseid="186" entryx="837" entryy="1110" entryz="6" rent="0" townid="9" size="28" />
+	<house name="Pyramid XXI" houseid="187" entryx="832" entryy="1109" entryz="5" rent="0" townid="9" size="21" />
+	<house name="Pyramid XXII" houseid="188" entryx="780" entryy="1101" entryz="7" rent="0" townid="9" size="30" />
+	<house name="Pyramid XXIII" houseid="189" entryx="790" entryy="1101" entryz="7" rent="0" townid="9" size="30" />
+	<house name="Pyramid XXIV" houseid="190" entryx="785" entryy="1100" entryz="6" rent="0" townid="9" size="21" />
+	<house name="Pyramid XXV" houseid="191" entryx="768" entryy="1095" entryz="7" rent="0" townid="9" size="25" />
+	<house name="Pyramid XXVI" houseid="192" entryx="768" entryy="1081" entryz="7" rent="0" townid="9" size="25" />
+	<house name="Pyramid XXVII" houseid="193" entryx="780" entryy="1064" entryz="7" rent="0" townid="9" size="23" />
+	<house name="Pyramid XXVIII" houseid="194" entryx="798" entryy="1063" entryz="7" rent="0" townid="9" size="62" />
+	<house name="Pyramid XXIX" houseid="195" entryx="805" entryy="1063" entryz="7" rent="0" townid="9" size="51" />
+	<house name="Pyramid XXX" houseid="196" entryx="802" entryy="1061" entryz="6" rent="0" townid="9" size="17" />
+	<house name="Pyramid XXXI" houseid="197" entryx="806" entryy="1055" entryz="6" rent="0" townid="9" size="24" />
+	<house name="Pyramid XXXII" houseid="198" entryx="799" entryy="1057" entryz="5" rent="0" townid="9" size="14" />
+	<house name="Pyramid XXXIII" houseid="199" entryx="811" entryy="1079" entryz="7" rent="0" townid="9" size="25" />
+	<house name="Lava Circle, Flat 1" houseid="200" entryx="803" entryy="417" entryz="12" rent="0" townid="11" size="36" />
+	<house name="Lava Circle, Flat 2" houseid="201" entryx="807" entryy="414" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 3" houseid="202" entryx="814" entryy="410" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 4" houseid="203" entryx="810" entryy="391" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 5" houseid="204" entryx="802" entryy="387" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 6" houseid="205" entryx="797" entryy="380" entryz="12" rent="0" townid="11" size="36" />
+	<house name="Lava Circle, Flat 7" houseid="206" entryx="784" entryy="380" entryz="12" rent="0" townid="11" size="36" />
+	<house name="Lava Circle, Flat 8" houseid="207" entryx="780" entryy="387" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 9" houseid="208" entryx="772" entryy="391" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 10" houseid="209" entryx="772" entryy="411" entryz="12" rent="0" townid="11" size="50" />
+	<house name="Lava Circle, Flat 11" houseid="210" entryx="779" entryy="417" entryz="12" rent="0" townid="11" size="36" />
+	<house name="Vaargdon House I" houseid="211" entryx="744" entryy="444" entryz="10" rent="0" townid="11" size="52" />
+	<house name="Vaargdon House II" houseid="212" entryx="731" entryy="429" entryz="10" rent="0" townid="11" size="42" />
+	<house name="Vaargdon House III" houseid="213" entryx="727" entryy="421" entryz="10" rent="0" townid="11" size="48" />
+	<house name="Vaargdon House IV" houseid="214" entryx="722" entryy="421" entryz="10" rent="0" townid="11" size="32" />
+	<house name="Vaargdon House V" houseid="215" entryx="742" entryy="422" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House VI" houseid="216" entryx="739" entryy="415" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House VII" houseid="217" entryx="735" entryy="408" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House VIII" houseid="218" entryx="728" entryy="408" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House IX" houseid="219" entryx="719" entryy="402" entryz="10" rent="0" townid="11" size="36" />
+	<house name="Vaargdon House X" houseid="220" entryx="715" entryy="402" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House XI" houseid="221" entryx="715" entryy="409" entryz="10" rent="0" townid="11" size="24" />
+	<house name="Vaargdon House XII" houseid="222" entryx="715" entryy="421" entryz="10" rent="0" townid="11" size="20" />
+	<house name="Vaargdon House XIII" houseid="223" entryx="715" entryy="426" entryz="10" rent="0" townid="11" size="16" />
+	<house name="Vaargdon House XIV" houseid="224" entryx="715" entryy="431" entryz="10" rent="0" townid="11" size="28" />
+	<house name="Stevoc, Flat I" houseid="225" entryx="1040" entryy="141" entryz="7" rent="0" townid="4" size="22" />
+	<house name="Stevoc, Flat II" houseid="226" entryx="1038" entryy="144" entryz="7" rent="0" townid="4" size="29" />
+	<house name="Stevoc, Flat III" houseid="227" entryx="1040" entryy="145" entryz="7" rent="0" townid="4" size="27" />
+	<house name="Stevoc, Flat IV" houseid="228" entryx="1019" entryy="162" entryz="7" rent="0" townid="4" size="26" />
+	<house name="Stevoc, Flat V" houseid="229" entryx="1021" entryy="133" entryz="6" rent="0" townid="4" size="51" />
+	<house name="Kings Landing, Flat I" houseid="231" entryx="1044" entryy="330" entryz="7" rent="0" townid="10" size="9" />
+	<house name="Kings Landing, Flat II" houseid="232" entryx="1042" entryy="324" entryz="6" rent="0" townid="10" size="30" />
+	<house name="Kings Landing, Flat III" houseid="233" entryx="1051" entryy="322" entryz="6" rent="0" townid="10" size="30" />
+	<house name="Stevoc, Flat VI" houseid="234" entryx="1028" entryy="146" entryz="6" rent="0" townid="4" size="11" />
+	<house name="Stevoc, Flat VII" houseid="235" entryx="1008" entryy="143" entryz="6" rent="0" townid="4" size="18" />
+	<house name="Main Street, I" houseid="236" entryx="600" entryy="370" entryz="7" rent="0" townid="7" size="63" />
+	<house name="Main Street, II" houseid="237" entryx="592" entryy="370" entryz="7" rent="0" townid="7" size="76" />
+	<house name="Main Street, III" houseid="238" entryx="524" entryy="375" entryz="7" rent="0" townid="7" size="51" />
+	<house name="Main Street, IV" houseid="239" entryx="527" entryy="371" entryz="7" rent="0" townid="7" size="53" />
+	<house name="Main Street, V" houseid="240" entryx="522" entryy="370" entryz="6" rent="0" townid="7" size="26" />
+	<house name="Main Street, VI" houseid="241" entryx="522" entryy="373" entryz="6" rent="0" townid="7" size="24" />
+	<house name="Main Street, VII" houseid="242" entryx="537" entryy="370" entryz="7" rent="0" townid="7" size="67" />
+	<house name="Main Street, VIII" houseid="243" entryx="533" entryy="366" entryz="6" rent="0" townid="7" size="19" />
+	<house name="Main Street, IX" houseid="244" entryx="535" entryy="368" entryz="6" rent="0" townid="7" size="21" />
+	<house name="Main Street, XI" houseid="245" entryx="530" entryy="376" entryz="7" rent="0" townid="7" size="65" />
+	<house name="Main Street, XII" houseid="246" entryx="549" entryy="368" entryz="7" rent="0" townid="7" size="19" />
+	<house name="Main Street, XIII" houseid="247" entryx="553" entryy="368" entryz="7" rent="0" townid="7" size="22" />
+	<house name="Main Street, XIV" houseid="248" entryx="555" entryy="366" entryz="6" rent="0" townid="7" size="52" />
+	<house name="Dirty Flats, 1" houseid="249" entryx="539" entryy="358" entryz="7" rent="0" townid="7" size="13" />
+	<house name="Dirty Flats, 2" houseid="250" entryx="546" entryy="353" entryz="7" rent="0" townid="7" size="35" />
+	<house name="Dirty Flats, 3" houseid="251" entryx="548" entryy="355" entryz="7" rent="0" townid="7" size="16" />
+	<house name="Dirty Flats, 4" houseid="253" entryx="549" entryy="343" entryz="7" rent="0" townid="7" size="17" />
+	<house name="Fountain Street, 1" houseid="254" entryx="568" entryy="393" entryz="7" rent="0" townid="7" size="22" />
+	<house name="Fountain Street, 2" houseid="255" entryx="574" entryy="396" entryz="7" rent="0" townid="7" size="65" />
+	<house name="Fountain Street, 3" houseid="256" entryx="576" entryy="388" entryz="7" rent="0" townid="7" size="40" />
+	<house name="Fountain Street, 4" houseid="257" entryx="569" entryy="386" entryz="7" rent="0" townid="7" size="68" />
+	<house name="Fountain Street, 5" houseid="258" entryx="569" entryy="379" entryz="7" rent="0" townid="7" size="68" />
+	<house name="Fountain Street, 6" houseid="259" entryx="575" entryy="380" entryz="7" rent="0" townid="7" size="80" />
+	<house name="Fountain Street, 7" houseid="260" entryx="578" entryy="356" entryz="7" rent="0" townid="7" size="55" />
+	<house name="Fountain Street, 8" houseid="261" entryx="572" entryy="345" entryz="7" rent="0" townid="7" size="38" />
+	<house name="Fountain Street, 9" houseid="262" entryx="577" entryy="343" entryz="7" rent="0" townid="7" size="97" />
+	<house name="Fountain Street, 10" houseid="263" entryx="587" entryy="351" entryz="7" rent="0" guildhall="true" townid="7" size="178" />
+	<house name="Fountain Street, 11" houseid="264" entryx="569" entryy="361" entryz="7" rent="0" townid="7" size="19" />
+	<house name="Fountain Street, 12" houseid="265" entryx="569" entryy="364" entryz="7" rent="0" townid="7" size="16" />
+	<house name="Fountain Street, 13" houseid="266" entryx="569" entryy="364" entryz="6" rent="0" townid="7" size="20" />
+	<house name="Fountain Street, 14" houseid="267" entryx="569" entryy="361" entryz="6" rent="0" townid="7" size="19" />
+	<house name="Fountain Street, 15" houseid="268" entryx="572" entryy="353" entryz="6" rent="0" townid="7" size="31" />
+	<house name="Fountain Street, 16" houseid="269" entryx="567" entryy="341" entryz="6" rent="0" townid="7" size="27" />
+	<house name="Fountain Street, 17" houseid="270" entryx="570" entryy="343" entryz="6" rent="0" townid="7" size="14" />
+	<house name="Wall Street, 1" houseid="271" entryx="617" entryy="394" entryz="7" rent="0" townid="7" size="63" />
+	<house name="Wall Street, 2" houseid="272" entryx="617" entryy="384" entryz="7" rent="0" townid="7" size="29" />
+	<house name="Wall Street, 3" houseid="273" entryx="617" entryy="375" entryz="7" rent="0" townid="7" size="76" />
+	<house name="Wall Street, 4" houseid="274" entryx="616" entryy="344" entryz="7" rent="0" townid="7" size="57" />
+	<house name="Wall Street, 5" houseid="275" entryx="619" entryy="335" entryz="7" rent="0" townid="7" size="46" />
+	<house name="Wall Street, 6" houseid="276" entryx="619" entryy="335" entryz="6" rent="0" townid="7" size="46" />
+	<house name="Wall Street, 7" houseid="277" entryx="606" entryy="355" entryz="7" rent="0" townid="7" size="46" />
+	<house name="Wall Street, 8" houseid="278" entryx="607" entryy="351" entryz="7" rent="0" townid="7" size="49" />
+	<house name="Wall Street, 9" houseid="279" entryx="599" entryy="356" entryz="6" rent="0" townid="7" size="25" />
+	<house name="Wall Street, 10" houseid="280" entryx="599" entryy="352" entryz="6" rent="0" townid="7" size="30" />
+	<house name="Wall Street, 11" houseid="281" entryx="605" entryy="338" entryz="7" rent="0" townid="7" size="70" />
+	<house name="Wall Street, 12" houseid="282" entryx="597" entryy="338" entryz="7" rent="0" townid="7" size="84" />
+	<house name="Wall Street, 13" houseid="283" entryx="561" entryy="339" entryz="7" rent="0" townid="7" size="46" />
+	<house name="Harbor, Flat 1" houseid="284" entryx="553" entryy="404" entryz="7" rent="0" townid="7" size="38" />
+	<house name="Harbor, Flat 2" houseid="285" entryx="554" entryy="405" entryz="6" rent="0" townid="7" size="30" />
+	<house name="Harbor, Flat 3" houseid="286" entryx="545" entryy="403" entryz="7" rent="0" townid="7" size="49" />
+	<house name="Harbor, Flat 4" houseid="287" entryx="538" entryy="404" entryz="7" rent="0" townid="7" size="51" />
+	<house name="Harbor, Flat 5" houseid="288" entryx="536" entryy="403" entryz="7" rent="0" townid="7" size="41" />
+	<house name="Harbor, Flat 6" houseid="289" entryx="536" entryy="396" entryz="7" rent="0" townid="7" size="28" />
+	<house name="Harbor, Flat 7" houseid="290" entryx="541" entryy="396" entryz="7" rent="0" townid="7" size="46" />
+	<house name="Harbor, Flat 8" houseid="291" entryx="536" entryy="387" entryz="7" rent="0" townid="7" size="74" />
+	<house name="Harbor, Flat 9" houseid="292" entryx="540" entryy="388" entryz="7" rent="0" townid="7" size="43" />
+	<house name="Harbor, Flat 10" houseid="293" entryx="540" entryy="381" entryz="7" rent="0" townid="7" size="40" />
+	<house name="Lighthouse" houseid="294" entryx="516" entryy="418" entryz="6" rent="0" townid="7" size="58" />
+	<house name="Harbor, Flat 11" houseid="295" entryx="547" entryy="410" entryz="6" rent="0" townid="7" size="31" />
+	<house name="Frizen Hotel, Room I" houseid="296" entryx="343" entryy="190" entryz="7" rent="0" townid="5" size="14" />
+	<house name="Frizen Hotel, Room 2" houseid="297" entryx="342" entryy="195" entryz="7" rent="0" townid="5" size="17" />
+	<house name="Frizen Hotel, Room 3" houseid="298" entryx="348" entryy="200" entryz="7" rent="0" townid="5" size="22" />
+	<house name="Frizen Hotel, Room 4" houseid="299" entryx="352" entryy="197" entryz="7" rent="0" townid="5" size="23" />
+	<house name="Frizen Hotel, Room 5" houseid="300" entryx="351" entryy="190" entryz="7" rent="0" townid="5" size="16" />
+	<house name="Frizen Hotel, Room 6" houseid="301" entryx="342" entryy="190" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Frizen Hotel, Room 7" houseid="302" entryx="341" entryy="199" entryz="6" rent="0" townid="5" size="16" />
+	<house name="Frizen Hotel, Room 8" houseid="303" entryx="346" entryy="202" entryz="6" rent="0" townid="5" size="8" />
+	<house name="Glacier Side, 1" houseid="304" entryx="361" entryy="190" entryz="7" rent="0" townid="5" size="16" />
+	<house name="Glacier Side, 2" houseid="305" entryx="361" entryy="185" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 3" houseid="306" entryx="368" entryy="183" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 4" houseid="307" entryx="359" entryy="179" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 5" houseid="308" entryx="368" entryy="180" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 6" houseid="309" entryx="359" entryy="175" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 7" houseid="310" entryx="362" entryy="169" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 8" houseid="311" entryx="368" entryy="171" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 9" houseid="312" entryx="368" entryy="176" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 10" houseid="313" entryx="362" entryy="173" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 11" houseid="314" entryx="363" entryy="181" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 12" houseid="315" entryx="371" entryy="178" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Glacier Side, 13" houseid="316" entryx="370" entryy="180" entryz="6" rent="0" townid="5" size="14" />
+	<house name="Frizen House" houseid="317" entryx="329" entryy="196" entryz="5" rent="0" townid="5" size="32" />
+	<house name="Spirit Home 1" houseid="318" entryx="335" entryy="178" entryz="7" rent="0" townid="5" size="12" />
+	<house name="Spirit Home 2" houseid="319" entryx="332" entryy="180" entryz="7" rent="0" townid="5" size="7" />
+	<house name="Spirit Home 3" houseid="320" entryx="327" entryy="178" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Spirit Home 4" houseid="321" entryx="325" entryy="176" entryz="7" rent="0" townid="5" size="10" />
+	<house name="Spirit Home 5" houseid="322" entryx="328" entryy="174" entryz="7" rent="0" townid="5" size="30" />
+	<house name="Spirit Home 6" houseid="323" entryx="338" entryy="174" entryz="7" rent="0" townid="5" size="30" />
+	<house name="Arena Walk" houseid="324" entryx="358" entryy="156" entryz="7" rent="0" townid="5" size="14" />
+	<house name="Fimbul Shelf, 1" houseid="325" entryx="333" entryy="164" entryz="7" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 2" houseid="326" entryx="327" entryy="159" entryz="7" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 3" houseid="327" entryx="333" entryy="159" entryz="7" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 4" houseid="328" entryx="337" entryy="159" entryz="7" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 5" houseid="329" entryx="328" entryy="166" entryz="6" rent="0" townid="5" size="22" />
+	<house name="Fimbul Shelf, 6" houseid="330" entryx="328" entryy="159" entryz="6" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 7" houseid="331" entryx="338" entryy="159" entryz="6" rent="0" townid="5" size="18" />
+	<house name="Fimbul Shelf, 8" houseid="332" entryx="338" entryy="166" entryz="6" rent="0" townid="5" size="22" />
+	<house name="Fimbul Shelf, 9" houseid="333" entryx="345" entryy="168" entryz="7" rent="0" townid="5" size="30" />
+	<house name="Fimbul Shelf, 10" houseid="334" entryx="345" entryy="157" entryz="7" rent="0" townid="5" size="21" />
+	<house name="Fimbul Shelf, 11" houseid="335" entryx="346" entryy="156" entryz="6" rent="0" townid="5" size="18" />
+	<house name="Spirit Home 7" houseid="336" entryx="325" entryy="182" entryz="6" rent="0" townid="5" size="10" />
+	<house name="Spirit Home 8" houseid="337" entryx="329" entryy="182" entryz="6" rent="0" townid="5" size="13" />
+	<house name="Wood Avenue, 1" houseid="338" entryx="769" entryy="547" entryz="7" rent="0" townid="3" size="58" />
+	<house name="Wood Avenue, 2" houseid="339" entryx="779" entryy="549" entryz="7" rent="0" townid="3" size="66" />
+	<house name="Wood Avenue, 3" houseid="340" entryx="787" entryy="547" entryz="7" rent="0" townid="3" size="99" />
+	<house name="Wood Avenue, 4" houseid="341" entryx="792" entryy="543" entryz="7" rent="0" townid="3" size="90" />
+	<house name="Wood Avenue, 5" houseid="342" entryx="781" entryy="534" entryz="7" rent="0" townid="3" size="33" />
+	<house name="Wood Avenue, 6" houseid="343" entryx="780" entryy="541" entryz="6" rent="0" townid="3" size="32" />
+	<house name="Wood Avenue, 7" houseid="344" entryx="811" entryy="539" entryz="7" rent="0" townid="3" size="25" />
+	<house name="Wood Avenue, 8" houseid="345" entryx="806" entryy="527" entryz="7" rent="0" townid="3" size="77" />
+	<house name="Wood Avenue, 9" houseid="346" entryx="802" entryy="525" entryz="7" rent="0" townid="3" size="16" />
+	<house name="Wood Avenue, 10" houseid="347" entryx="802" entryy="525" entryz="6" rent="0" townid="3" size="16" />
+	<house name="Wood Avenue, 11" houseid="348" entryx="789" entryy="525" entryz="7" rent="0" townid="3" size="43" />
+	<house name="Wood Avenue, 12" houseid="349" entryx="799" entryy="518" entryz="7" rent="0" townid="3" size="6" />
+	<house name="Wood Avenue, 13" houseid="350" entryx="781" entryy="527" entryz="7" rent="0" townid="3" size="48" />
+	<house name="Wood Avenue, 14" houseid="351" entryx="780" entryy="521" entryz="7" rent="0" townid="3" size="38" />
+	<house name="Green Way 1" houseid="352" entryx="743" entryy="549" entryz="7" rent="0" townid="3" size="26" />
+	<house name="Green Way 2" houseid="353" entryx="740" entryy="551" entryz="6" rent="0" townid="3" size="20" />
+	<house name="City Edge, 1" houseid="354" entryx="728" entryy="546" entryz="7" rent="0" townid="3" size="37" />
+	<house name="City Edge, 2" houseid="355" entryx="723" entryy="547" entryz="7" rent="0" townid="3" size="16" />
+	<house name="City Edge, 3" houseid="356" entryx="723" entryy="544" entryz="6" rent="0" townid="3" size="12" />
+	<house name="City Edge, 4" houseid="357" entryx="723" entryy="542" entryz="6" rent="0" townid="3" size="16" />
+	<house name="City Edge, 5" houseid="358" entryx="723" entryy="532" entryz="7" rent="0" townid="3" size="14" />
+	<house name="City Edge, 6" houseid="359" entryx="719" entryy="533" entryz="6" rent="0" townid="3" size="14" />
+	<house name="City Edge, 7" houseid="360" entryx="731" entryy="533" entryz="7" rent="0" townid="3" size="21" />
+	<house name="City Edge, 8" houseid="361" entryx="731" entryy="533" entryz="6" rent="0" townid="3" size="21" />
+	<house name="City Edge, 9" houseid="362" entryx="740" entryy="535" entryz="7" rent="0" townid="3" size="68" />
+	<house name="City Edge, 10" houseid="363" entryx="724" entryy="522" entryz="7" rent="0" townid="3" size="48" />
+	<house name="City Edge, 11" houseid="364" entryx="723" entryy="512" entryz="7" rent="0" townid="3" size="27" />
+	<house name="City Edge, 12" houseid="365" entryx="729" entryy="511" entryz="7" rent="0" townid="3" size="28" />
+	<house name="Ithilien Guildhall" houseid="366" entryx="707" entryy="512" entryz="7" rent="0" guildhall="true" townid="3" size="249" />
+	<house name="Main Street, 1" houseid="367" entryx="744" entryy="503" entryz="7" rent="0" townid="3" size="81" />
+	<house name="Main Street, 2" houseid="368" entryx="749" entryy="502" entryz="7" rent="0" townid="3" size="83" />
+	<house name="Main Street, 3" houseid="369" entryx="752" entryy="511" entryz="7" rent="0" townid="3" size="20" />
+	<house name="Main Street, 4" houseid="370" entryx="756" entryy="509" entryz="7" rent="0" townid="3" size="55" />
+	<house name="Main Street, 5" houseid="371" entryx="760" entryy="509" entryz="7" rent="0" townid="3" size="26" />
+	<house name="Main Street, 6" houseid="372" entryx="779" entryy="510" entryz="7" rent="0" townid="3" size="44" />
+	<house name="Ithilien Sky House" houseid="373" entryx="803" entryy="513" entryz="6" rent="0" townid="3" size="45" />
+	<house name="Library House" houseid="374" entryx="789" entryy="511" entryz="7" rent="0" townid="3" size="43" />
+	<house name="Jungle House 1" houseid="375" entryx="736" entryy="578" entryz="6" rent="0" townid="3" size="13" />
+	<house name="Jungle House 2" houseid="376" entryx="735" entryy="577" entryz="5" rent="0" townid="3" size="7" />
+	<house name="Jungle House 3" houseid="377" entryx="724" entryy="584" entryz="6" rent="0" townid="3" size="12" />
+	<house name="Jungle House 4" houseid="378" entryx="724" entryy="583" entryz="5" rent="0" townid="3" size="8" />
+</houses>

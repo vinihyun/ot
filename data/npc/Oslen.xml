@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Oslen" walkinterval="2000" floorchange="0" script="oslen.lua">
+	<health now="100" max="100"/>
+	<look type="132" head="114" body="105" legs="105" feet="0" addons="2"/>
+	<parameters>
+		<parameter key="message_greet" value="Hi. |PLAYERNAME|. How have been you been? Long time no? It is cold up in here... I need new friends, i feel lonely. If you accept it, I can invite you to my {house}. It is haunted by some spectres, but it is ok. I am their friend!"/>
+		<parameter key="message_farewell" value="Bye |PLAYERNAME|!"/>
+	</parameters>
+</npc>
